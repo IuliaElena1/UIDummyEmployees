@@ -1,0 +1,6 @@
+{
+    "/api/v1/employees": "/employees",
+    "/api/v1/create": "/employees",
+    "/api/v1/update/:id": "/employees/:id",
+    "/api/v1/delete/:id": "/employees/:id"
+    }
