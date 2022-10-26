@@ -1,9 +1,11 @@
+Install npm
+
+Install json-server : npm install -g json-server
+
 Open UIDummyEmployees in VS Code
 
-Open cmd and add cd <UIDummyEmployees path>
+Open cmd and type:  cd <UIDummyEmployees folder path>
 
-Type in cmd : json-server --id id db.json --routes routes.json
+Type run command : json-server --id id db.json --routes routes.json
 
-Open ApiDummyEmployees in VS
 
-Run the test
